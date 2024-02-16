@@ -1,5 +1,3 @@
-[Tax-Compliance-und-Verrechnungspreise](url)
-
 Dear Reader,
 
 in this repository, you will find the results of the survey with the title Tax Compliance and Transfer Pricing and the related questionnaire (in German).
