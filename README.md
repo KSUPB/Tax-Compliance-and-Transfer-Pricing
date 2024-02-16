@@ -9,5 +9,5 @@ Greil, S., Kaluza, E., Schulz, K., & Sureth-Sloane, C. (2023). Umfrage: Tax Comp
 
 Please make sure to familiarise yourself with the general information provided in the Excel spreadsheet, and make sure to cite our publication above when using our date.
 
-Best,
+
 The Authors
