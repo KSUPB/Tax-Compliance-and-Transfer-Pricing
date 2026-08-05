@@ -11,5 +11,7 @@ The survey results are published in the following articles:
 
 Please make sure to familiarise yourself with the general information provided in the Excel spreadsheet, and make sure to cite our publication above when using our data.
 
+Data for the eJournal article can be found in the folder eJournal_Survey_Results_CSV, and data for the DStR article can be found in the folder DStR_Survey_Results_CSV, as well as in the respective Excel-Spreadsheets.
+
 
 The Authors
